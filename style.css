@@ -106,41 +106,6 @@ nav a.active {
   background-color: #e73370;
 }
 
-
-.content {
-  max-width: 900px;
-  margin: 40px auto;
-  padding: 20px;
-  background-color: #1a1a1a;
-  border-radius: 8px;
-  line-height: 1.6;
-}
-.content h2, .content h3 {
-  color: #ff4081;
-  text-align: center;
-}
-.content p {
-  color: #ddd;
-  margin-bottom: 15px;
-}
-.content ul {
-  list-style: disc;
-  margin: 15px 40px;
-  color: #ccc;
-}
-.content table {
-  width: 100%;
-  border-collapse: collapse;
-  margin: 20px 0;
-}
-.content th, .content td {
-  border: 1px solid #444;
-  padding: 10px;
-  text-align: center;
-  color: #ccc;
-}
-
-
 /* Pagination (optional for Movies page) */
 .pagination {
   display: flex;
